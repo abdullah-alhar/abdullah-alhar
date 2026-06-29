@@ -2,7 +2,7 @@
 
 # Abdullah Alhar
 
-**IT Student · developer **
+**IT Student · developer**
 
 *Sri Lanka Institute of Information Technology — BSc Information Technology, Year 1*
 
