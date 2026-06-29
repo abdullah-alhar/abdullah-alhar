@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdullah Al-Har 👋</h1>
+<h1 align="center">Hi, I'm Abdullah Alhar 👋</h1>
 
 <p align="center">
   🎓 BSc Information Technology @ SLIIT, Sri Lanka &nbsp;·&nbsp; Year 1
