@@ -2,7 +2,7 @@
 
 # Abdullah Alhar
 
-**IT Student · IoT Builder · CS50 Alumnus**
+**IT Student · developer **
 
 *Sri Lanka Institute of Information Technology — BSc Information Technology, Year 1*
 
@@ -48,8 +48,6 @@ Automated gate access system with sensor-based detection and control. One of two
 
 #### 🎓 Student Course Registration System
 Full MVC web application with three user roles — Admin, Student, and Lecturer. Features course management, scheduling, room assignments, payment uploads, and a custom file-based storage layer built without an external database.
-
-> *This project was selected for the OOP Exhibition at SLIIT.*
 
 ---
 
