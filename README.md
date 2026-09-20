@@ -63,10 +63,6 @@ A full MVC web application with three user roles: Admin, Student, and Lecturer. 
 
 <div align="center">
 
-![GitHub Stats](https://github-stats.demolab.com/api?username=Abdullah-alhar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-stats.demolab.com/api/top-langs/?username=Abdullah-alhar&layout=compact&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah-alhar&theme=dark&hide_border=true)
 
 </div>
