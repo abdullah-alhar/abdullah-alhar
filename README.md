@@ -2,9 +2,9 @@
 
 # Abdullah Alhar
 
-**IT Student · developer**
+**IT Student · Developer**
 
-*Sri Lanka Institute of Information Technology — BSc Information Technology, Year 1*
+*Sri Lanka Institute of Information Technology — BSc Information Technology, Year 2*
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ### Who I Am
 
-I started programming before university — through Harvard's CS50x and CS50P — because I wanted to understand how software actually works, not just how to use it. That curiosity pushed me into building things across different domains: IoT hardware systems, full-stack web apps, and data structure implementations.
+I started programming before university, through Harvard's CS50x and CS50P, because I wanted to understand how software really works, not just how to use it. That curiosity pushed me into building things across different areas: IoT hardware systems, full-stack web apps, and data structure implementations.
 
-I'm currently in Year 1 at SLIIT and already working on real projects. I like going deep on fundamentals.
+I'm now in Year 2 at SLIIT, studying Information Technology with a Data Science specialization, and I'm already working on real projects. I like going deep on the basics.
 
 ---
 
@@ -41,22 +41,20 @@ I'm currently in Year 1 at SLIIT and already working on real projects. I like go
 ### 🚀 Projects
 
 #### 🌿 Greenhouse Automation System
-IoT system that monitors temperature, humidity, and soil conditions to automate greenhouse operations. Built with Arduino sensors and real-time control logic.
+An IoT system that checks temperature, humidity, and soil conditions to automate greenhouse tasks. Built with Arduino sensors and real-time control logic.
 
 #### 🚪 Smart Gate System
-Automated gate access system with sensor-based detection and control. One of two IoT projects I built during my first year.
+An automatic gate access system with sensor-based detection and control. One of two IoT projects I built in my first year.
 
 #### 🎓 Student Course Registration System
-Full MVC web application with three user roles — Admin, Student, and Lecturer. Features course management, scheduling, room assignments, payment uploads, and a custom file-based storage layer built without an external database.
+A full MVC web application with three user roles: Admin, Student, and Lecturer. It has course management, scheduling, room assignments, payment uploads, and a custom file-based storage layer built without an external database.
 
 ---
 
 ### 📜 Credentials
 
-| Course | Institution | |
+| Course | Institution | Status |
 |---|---|---|
-| CS50x — Introduction to Computer Science | Harvard University | ✅ |
-| CS50P — Introduction to Programming with Python | Harvard University | ✅ |
 | BSc Information Technology | SLIIT, Sri Lanka | 🔄 In Progress |
 
 ---
@@ -69,12 +67,6 @@ Full MVC web application with three user roles — Admin, Student, and Lecturer.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-alhar&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-alhar&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah-alhar&theme=dark&hide_border=true)
 
-</div>
-
----
-
-<div align="center">
-  <i>Year 1 — a lot more to build.</i>
 </div>
