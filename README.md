@@ -2,7 +2,7 @@
 
 # Abdullah Alhar
 
-**IT Undergraduate · Full-Stack & AI/ML Developer · Freelancer**
+**IT Undergraduate · Full-Stack & AI/ML Developer**
 
 *Sri Lanka Institute of Information Technology — BSc Information Technology, Year 2*
 
